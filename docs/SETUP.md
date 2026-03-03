@@ -131,7 +131,7 @@ python3 markbot.py transcribe-ready \
 
 ```
 wc-transcribe skill ─────────► markbot.py transcribe-start / transcribe-ready
-podcast-production-schedule ──► markbot.py post (custom Block Kit JSON)
+airtable-automations ─────────► markbot.py schedule-alert / post
 any future caller ────────────► markbot.py schedule-alert / post
 ```
 

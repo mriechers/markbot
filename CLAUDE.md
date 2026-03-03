@@ -10,7 +10,7 @@ Single-file CLI (`markbot.py`) that owns all Slack notifications for Wonder Cabi
 |---------|---------|--------|
 | `transcribe-start` | "Job started" notification | `wc-transcribe` skill |
 | `transcribe-ready` | "Transcript ready" with Google Doc link | `wc-transcribe` skill |
-| `schedule-alert` | Release readiness alerts (missing/drafted/scheduled) | `podcast-production-schedule` |
+| `schedule-alert` | Release readiness alerts (missing/drafted/scheduled) | Airtable automations |
 | `post` | Generic Block Kit poster | Any caller with custom blocks |
 
 ## Usage
