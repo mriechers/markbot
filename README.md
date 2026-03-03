@@ -1,6 +1,6 @@
 # Your Helpful MarkBot!
 
-Centralized Slack bot for the [podcast-publishing-suite](https://github.com/Wonder-Cabinet-Productions/podcast-publishing-suite). Posts producer-friendly notifications as a single bot identity.
+Centralized Slack bot for posting alerts and nudges. Posts producer-friendly notifications as a single bot identity.
 
 ## Quick Start
 
@@ -22,3 +22,6 @@ See [docs/SETUP.md](docs/SETUP.md) for Slack App creation and configuration.
 - **`transcribe-ready`** — "Transcript ready to edit" with Google Doc link
 - **`schedule-alert`** — Release readiness alerts (missing / drafted / scheduled)
 - **`post`** — Generic Block Kit poster for custom payloads
+
+## Use cases
+- Used as centralized alert system in the [podcast-publishing-suite](https://github.com/Wonder-Cabinet-Productions/podcast-publishing-suite).
