@@ -1,6 +1,6 @@
 # Your Helpful MarkBot!
 
-Centralized Slack bot for posting alerts and nudges. Posts producer-friendly notifications as a single bot identity.
+Centralized Slack bot for alerts, updates and nudges. Gathers up saved items and stray conversations for other LLM-driven apps, and gives LLM applications a simple Slack notifier. 
 
 ## Quick Start
 
